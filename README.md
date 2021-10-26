@@ -10,3 +10,4 @@ Download the program and extract the zip file.
 Imput numbers x and y.
 
 ## How to uninstall
+Click uninstall button in control pannel.
