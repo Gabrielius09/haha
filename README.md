@@ -7,5 +7,6 @@ This program calculates the sum of two numbers.
 Download the program and extract the zip file.
 
 ## How to use
+Imput numbers x and y.
 
 ## How to uninstall
